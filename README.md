@@ -3,7 +3,7 @@
 </p>
 
 <h2>
-  <a href="https://diplodatos.famaf.unc.edu.ar/">
+  <a href="https://www.institucional.frc.utn.edu.ar/sistemas/Areas/noticias/Detalle.asp?2129/">
     <p align="center"> Diplomatura Superior en Data Science Aplicada -2022- 
     </h2>
 
